@@ -1,0 +1,5 @@
+Toffee Todd|200|20|Frosty Fizz,Ruby Rapture,Venomous Vortex,Caramel Comet,Frosty Fizz,Frosty Fizz
+Lychee Lenny|100|50|Frosty Fizz,Ruby Rapture,Venomous Vortex,Caramel Comet,Frosty Fizz,Frosty Fizz
+Chocolate Charlie|99|99|Mystic Marshmallow,Toxic Taffy,Fearsome Fudge,Frosty Fizz,Frosty Fizz,Frosty Fizz
+Pancake Patty|100|50|Crimson Crystal,Lucky Licorice,Mystic Marshmallow,Breezy Butterscotch,Frosty Fizz,Frosty Fizz
+Magic Mike|69|69|Toxic Taffy,Frosty Fizz,Breezy Butterscotch,Caramel Comet,Toxic Taffy,Fearsome Fudge,Lucky Licorice,Caramel Comet,Crimson Crystal

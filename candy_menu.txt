@@ -1,0 +1,4 @@
+Mystic Marshmallow|Boosts player's stamina by 20 units|30|magical
+Venomous Vortex|Decreases opponents stamina by 15 units(moderate)|20|poison
+Caramel Comet|Protects against all poison candies|25|immunity
+Ruby Rapture|Forms a gummy barrier on a chosen tile and opponent loses 2 turns|20|gummy
